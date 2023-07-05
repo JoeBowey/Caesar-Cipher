@@ -1,6 +1,6 @@
 """
 Joe Bowey
-Advanced Caesar Cipher
+Caesar Cipher
 """
 
 import os
