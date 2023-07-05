@@ -1,3 +1,8 @@
+"""
+Joe Bowey
+Advanced Caesar Cipher with usuable GUI
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 from cryptography.fernet import Fernet
